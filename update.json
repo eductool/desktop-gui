@@ -1,11 +1,11 @@
 {
-  "version": "1.0.8",
-  "notes": "Correction d’un bug mineur",
-  "pub_date": "2026-01-27T09:30:00Z",
+  "version": "1.0.9",
+  "notes": "Add website link to diaog helping",
+  "pub_date": "2026-01-27T20:00:00Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSckRUZFFZQXkrUGd6bFRrM2c3VmNFV2F3M1JCNnUzb00xaFlsMU1LTEkzWDd3N09vUUVDQ1FrMDFVWFpQcXJrRjVoRDNON08xa2RBbUdVd0k5KzRBVWwrdHNrMFhwcndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NTI3MTQ3CWZpbGU6RWR1Y3Rvb2wtZGVza3RvcF8xLjAuOF9hbWQ2NC5BcHBJbWFnZQprMkYzZlFzeDRzcGNDRU5KemhsZ2VkV0xGM01BSjk3TWs1cW43YzJNV2RlbUtlc05ycWQxdjA0Ti8wRkdCeExYUHV3UUd6ZDl5UDBOTWg1S2liU0VDdz09Cg==",
-      "url": "https://github.com/eductool/desktop-gui/releases/download/v1.0.8/Eductool-desktop_1.0.8_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSckRUZFFZQXkrUG9BN3VwT2wxMzIxSXloTnlOWEc1d1VNZ3R5NWV3YmlnT3c5QTdyeXZHaUFERTJuaXFHQ2lOcFk0VEtKUU1tUWtSR2ZrbU1SemZoRGJnVXIwZnZWUHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NTQwMTM2CWZpbGU6RWR1Y3Rvb2wtZGVza3RvcF8xLjAuOV9hbWQ2NC5BcHBJbWFnZQpGYjgxOEZPb3BxN2M4UGNsVGZxaEVkL2lvUnNXT3BoRjk2ZWJWenpsZ0dLT1NwaHlpa2JnQWpCNkxPMS9BN1hQQzdGYWJ6SW83Y21IQmpJMVNaMGVBQT09Cg==",
+      "url": "https://github.com/eductool/desktop-gui/releases/download/v1.0.9/Eductool-desktop_1.0.9_amd64.AppImage"
     }
   }
 }
