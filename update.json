@@ -1,0 +1,23 @@
+{
+  "version": "1.0.8",
+  "notes": "Correction d’un bug mineur",
+  "pub_date": "2026-01-27T09:30:00Z",
+  "platforms": {
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTVpwcjd0amhKc2IwS0poY01ybVBSZmM1UHFrT0IveGh3NG9BZE9VdVZ2T3dVVlBwbG0zallIUjFNSEN5T2ZYeUp4YlE3Z2diTE5ObFJmRVM2cHB4b3hjMmw3VVQ2WHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NTE5NjIxCWZpbGU6RWR1Y3Rvb2wgZGVza3RvcF8xLjAuN19hbWQ2NC5kZWIKbXZQQ3dhUEhnUGllYlB6cDZGN2p3RjZDajRUeDdNcUNQMU53bTRmRVNxL0ZOMlE0QzNoQ0t2TU8rYitZd1J4enVXKzFIeXNZQ1RwZXkwUnNUVWhXQ3c9PQo=",
+      "url": "https://github.com/eductool/desktop-gui/releases/download/v1.0.8/Eductool-desktop_1.0.8_amd64.AppImage"
+    },
+    "windows-x86_64": {
+      "signature": "",
+      "url": ""
+    },
+    "darwin-x86_64": {
+      "signature": "",
+      "url": ""
+    },
+    "darwin-aarch64": {
+      "signature": "",
+      "url": ""
+    }
+  }
+}
