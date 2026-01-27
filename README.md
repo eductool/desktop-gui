@@ -1,6 +1,6 @@
 # EducTool
 
-**Site officiel / Official website:** [https://eductool.com](https://eductool.com)
+**Site officiel / Official website:** [https://eductool.com](https://eductool.com?utm_source=github&utm_medium=readme)
 
 ---
 

@@ -1,11 +1,11 @@
 {
-  "version": "1.0.9",
-  "notes": "Add website link to diaog helping",
+  "version": "1.0.10",
+  "notes": "Mise à jour des icônes / Icons updating",
   "pub_date": "2026-01-27T20:00:00Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSckRUZFFZQXkrUG9BN3VwT2wxMzIxSXloTnlOWEc1d1VNZ3R5NWV3YmlnT3c5QTdyeXZHaUFERTJuaXFHQ2lOcFk0VEtKUU1tUWtSR2ZrbU1SemZoRGJnVXIwZnZWUHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NTQwMTM2CWZpbGU6RWR1Y3Rvb2wtZGVza3RvcF8xLjAuOV9hbWQ2NC5BcHBJbWFnZQpGYjgxOEZPb3BxN2M4UGNsVGZxaEVkL2lvUnNXT3BoRjk2ZWJWenpsZ0dLT1NwaHlpa2JnQWpCNkxPMS9BN1hQQzdGYWJ6SW83Y21IQmpJMVNaMGVBQT09Cg==",
-      "url": "https://github.com/eductool/desktop-gui/releases/download/v1.0.9/Eductool-desktop_1.0.9_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSckRUZFFZQXkrUHJUeGlabHNhWjZoa2hUb1hLRWZXR3hieVBSeDRMVXNrNkpmRnpyMUMrbkNlRmRIUnZTSitJa2krcFpKeXhtanplbWRjZ0hwRUFGU2hKWG9jWFQvUXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NTUyMDkxCWZpbGU6RWR1Y3Rvb2wtZGVza3RvcF8xLjAuMTBfYW1kNjQuQXBwSW1hZ2UKQjhVU0ZXZmpPZzZFTUQrak9OengydnN4YUdiS1JPaXVnaHZSQ0N2RTlmNmYvZk1jLzczK2dNK2N3WkxmOWlQREJEV3BKUGxYUHMvQ1ZPTmtNV1pEQ2c9PQo=",
+      "url": "https://github.com/eductool/desktop-gui/releases/download/v1.0.10/Eductool-desktop_1.0.10_amd64.AppImage"
     }
   }
 }
