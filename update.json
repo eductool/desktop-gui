@@ -6,6 +6,10 @@
     "linux-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSckRUZFFZQXkrUHJUeGlabHNhWjZoa2hUb1hLRWZXR3hieVBSeDRMVXNrNkpmRnpyMUMrbkNlRmRIUnZTSitJa2krcFpKeXhtanplbWRjZ0hwRUFGU2hKWG9jWFQvUXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NTUyMDkxCWZpbGU6RWR1Y3Rvb2wtZGVza3RvcF8xLjAuMTBfYW1kNjQuQXBwSW1hZ2UKQjhVU0ZXZmpPZzZFTUQrak9OengydnN4YUdiS1JPaXVnaHZSQ0N2RTlmNmYvZk1jLzczK2dNK2N3WkxmOWlQREJEV3BKUGxYUHMvQ1ZPTmtNV1pEQ2c9PQo=",
       "url": "https://github.com/eductool/desktop-gui/releases/download/v1.0.10/Eductool-desktop_1.0.10_amd64.AppImage"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSckRUZFFZQXkrUHVUV1laWjdNSXA0dmV0c1hLMGRJR3RUUVBwT05CUUFHcHNFODRoNHdnT1B6OEplbHo3anYrNFd4SU9EMmNkMlFUWk5CenVpbDFZWnNqU0d4ZFhDQ2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NjA5NzU5CWZpbGU6RWR1Y3Rvb2wtZGVza3RvcF8xLjAuMTBfeDY0X2VuLVVTLm1zaQp5YlNZZHpXd3FtMVQ4VGhoczZsQXZIdHNreUNyZlZFQXpZSXo3cU9NZlVodkhzaXdsTTBIUjZpbU5SV3RNV3RwRG5xcWdYYzdabkZYZ2FGNUY5bDFCQT09Cg==",
+      "url": "https://github.com/eductool/desktop-gui/releases/download/v1.0.10/Eductool-desktop_1.0.10_x64_en-US.msi"
     }
   }
 }
