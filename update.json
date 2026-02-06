@@ -1,11 +1,11 @@
 {
-  "version": "1.0.11",
-  "notes": "Dialog appear when update is available",
-  "pub_date": "2026-01-28T20:00:00Z",
+  "version": "1.0.12",
+  "notes": "Synchronize remote data",
+  "pub_date": "2026-02-06T20:00:00Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSckRUZFFZQXkrUG1XZzJ3SmdQUDF0OEtjZGdBZU5sYWFldk5EK0JFckZIcnEvUC90SmRTZWdYakxUcHpvQlhVc2tnWkpRRzhNN2c2ZVQwaU1ZY2RqN2JtbVZ2cENUM1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NjI1NzU1CWZpbGU6RWR1Y3Rvb2wtZGVza3RvcF8xLjAuMTFfYW1kNjQuQXBwSW1hZ2UKWjZKa0JkQkNGYm9KekJxMHlYK1pXd055YmtBQ3FYUTFMTEozSGtpclJWOUM2NktCN0NLd2tpajFRUXk3ei9hR3dxOTBBMzMxMGFYb0JsN1pXNDUzQkE9PQo=",
-      "url": "https://github.com/eductool/desktop-gui/releases/download/v1.0.11/Eductool-desktop_1.0.11_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSckRUZFFZQXkrUG44UzBOV1pDYVd1YWNrMUdiR1orMHdCRVdlWEgzcW40NlZ2dC9RNXY1U3pYcitaVEFsYlpLWDd1WXhWU2p2aFpHUzVwMEpWTjZjb1NyK2ovendLQmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNDE0OTc4CWZpbGU6RWR1Y3Rvb2wtZGVza3RvcF8xLjAuMTJfYW1kNjQuQXBwSW1hZ2UKUHpiK2dWWGtVMHgvaXk4V0QxdnRaWHJwampvSEpWNC9qZVZkeDR0L3FpYlFZNm9LdFNtWWFZZW82UWhZekNiZWwrVEZONmJkenc3NmJ1KzhVSTFRREE9PQo=",
+      "url": "https://github.com/eductool/desktop-gui/releases/download/v1.0.12/Eductool-desktop_1.0.12_amd64.AppImage"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSckRUZFFZQXkrUHVUV1laWjdNSXA0dmV0c1hLMGRJR3RUUVBwT05CUUFHcHNFODRoNHdnT1B6OEplbHo3anYrNFd4SU9EMmNkMlFUWk5CenVpbDFZWnNqU0d4ZFhDQ2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NjA5NzU5CWZpbGU6RWR1Y3Rvb2wtZGVza3RvcF8xLjAuMTBfeDY0X2VuLVVTLm1zaQp5YlNZZHpXd3FtMVQ4VGhoczZsQXZIdHNreUNyZlZFQXpZSXo3cU9NZlVodkhzaXdsTTBIUjZpbU5SV3RNV3RwRG5xcWdYYzdabkZYZ2FGNUY5bDFCQT09Cg==",
