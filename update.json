@@ -1,15 +1,15 @@
 {
-  "version": "0.9.0",
-  "notes": "Native menu macosx, fix sync",
-  "pub_date": "2026-04-18T20:00:00Z",
+  "version": "0.9.1",
+  "notes": "schedule calendar, exams",
+  "pub_date": "2026-04-19T20:00:00Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVTNCK3RJcXo4U2tDNmdoY3dONnNDR1dDN0YrbU5iRU13a2FGc01OYXB4SHZFRFZxWUFIVkxJYTVuZWdIVVlWWVpqUnlXTVhIeUhqSjBBeGxPNmFTTEFIc0ZDTlByNndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NTE3MTg3CWZpbGU6RWR1Y3Rvb2wtZGVza3RvcF8wLjkuMF9hbWQ2NC5BcHBJbWFnZQpXQitzM3poMFJsZitQMnBGQVpmcW56MDlXcGc3R1l0U0ZUa1JZRlFycE1EWTlqQzdubEI2MWxnYjZ6SGFqRzZkNG1VVjZvOU5kQi9HTEtDT3YyQVhEUT09Cg==",
-      "url": "https://github.com/eductool/desktop-gui/releases/download/v0.9.0/Eductool-desktop_0.9.0_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVTNCK3RJcXo4U21yUGgvMHUyUVJqbHNNbHdZWmxBSlBWTFp3VWYwczM4QXIzMG92ZjJPSmozOFY3MzBlTGRSUWV1TjJ1TkxyQUZNWFlRNFhTVUcrZ0ZRZEZoSlBDbmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NjAzNTk5CWZpbGU6RWR1Y3Rvb2wtZGVza3RvcF8wLjkuMV9hbWQ2NC5BcHBJbWFnZQpTaUVTMzdpN04zMTFJMXluWGw0OHFSUGZNV01sMkczMUZqYTNqbTFDN3dXZlFSUzE3N3pCOC9CcHhUUTl0TjhwY1hzNE40MVk1VVByakl5eVlQUUFBdz09Cg==",
+      "url": "https://github.com/eductool/desktop-gui/releases/download/v0.9.1/Eductool-desktop_0.9.1_amd64.AppImage"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSckRUZFFZQXkrUHI3bFB6NitxdDZvQ3VWRm5iZ3l3dU1kV1VlUzZlVTJPUHpheHpXNVRUQlcrS1pmSnFpU1J1T3NJcUlzdGVIcWVEcEpHU0gwanJZdllNYVR6WTA0MEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNTgwMjUxCWZpbGU6RWR1Y3Rvb2wtZGVza3RvcF8xLjAuMTNfeDY0X2VuLVVTLm1zaQp3MTN5aExwNmxDR1RJZUt6R0RCcDJ1d0wvVlE1VkU0bm4xVnlVWldZWkNjWjYvcHprdFFzWnB1OGVEWGpwYWpGMzEzOGZGV3ZKRXN5VDd0MGJFSjBDZz09Cg==",
-      "url": "https://github.com/eductool/desktop-gui/releases/download/v0.9.0/Eductool-desktop_0.9.0_x64_en-US.msi"
+      "url": "https://github.com/eductool/desktop-gui/releases/download/v0.9.1/Eductool-desktop_0.9.1_x64_en-US.msi"
     },
     "darwin-x86_84": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSckRUZFFZQXkrUGxydU90UjhDcW9SaUI0bVZTdm5ObW5Cdm9mbnkxbStjNXI2dmhBMlJ5aVREN016Y2J3ZVRMS2owaUJBMEdwMWR6ZWZObjN4cnNmTGR1L3Q4SlhtZmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNTg0MTg0CWZpbGU6RWR1Y3Rvb2wtZGVza3RvcF8xLjAuMTNfeDY0LmRtZwpYZzhkTkdKMnFaZlhBNysxbmUrSHhyS0VOa2tRdlJ2NmllQlRIdXFVd0M3Rkd6SWZhSmgrNkpOZ0FkR2hRVXRLcktZT2NWeW1ZUmJUY1IwZXp4YmpBdz09Cg==",
