@@ -1,19 +1,19 @@
 {
-  "version": "0.12.1",
-  "notes": "Export exam PDF - fix wkhtmltopdf",
+  "version": "0.12.2",
+  "notes": "fix wkhtmltopdf - Export exam PDF use openfile",
   "pub_date": "2026-05-30T20:00:00Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVTNCK3RJcXo4U2hYMWpudHc2ZDM0UU16YkdjeURocWpXdjd6ZldYSmJ1cWFaSzdnUTFMMmtDb21IVFJoS1ZPcHg2ZTZiVS84cXZ3N29XWEh3N1A5c3pkWm5SaEJWSEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMTY0MDAwCWZpbGU6RWR1Y3Rvb2wtZGVza3RvcF8wLjEyLjFfYW1kNjQuQXBwSW1hZ2UKd2pObzRRUy9SMWltVjRPa3Q2S05QL3JmeFdObVNkSTJvMC9kSDdxLzJmY3JKTVJ6SzdTeFpiWG43ekFpdnVLSE9MNWc1NmZ6Q2VCMHJMRTYyNFRzREE9PQo=",
-      "url": "https://github.com/eductool/desktop-gui/releases/download/v0.12.1/Eductool-desktop_0.12.1_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVTNCK3RJcXo4U3NMY0NlZDFiRWRsV0F4WTJSdnl1UlFRbWJBeXljYkk0ZFpCZmhMZkljZ3U0K0g1aHRmdUtubFVyRUdLams4N21sSGJKelVtTy9ZaVkxNjVRMjQ4WFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMTY1MjkzCWZpbGU6RWR1Y3Rvb2wtZGVza3RvcF8wLjEyLjJfYW1kNjQuQXBwSW1hZ2UKMGtGdEZrR3VzczNqK3ROeWViYkxCdmcwdlBtZERGRGNKbzVrakhDSFAwR1VQRjZ2TkVpVnNQS2l0Wk9HUEVDWXlBUjJsWUNqbmZHNzdyak9FbDJiRHc9PQo=",
+      "url": "https://github.com/eductool/desktop-gui/releases/download/v0.12.2/Eductool-desktop_0.12.2_amd64.AppImage"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSckRUZFFZQXkrUHI3bFB6NitxdDZvQ3VWRm5iZ3l3dU1kV1VlUzZlVTJPUHpheHpXNVRUQlcrS1pmSnFpU1J1T3NJcUlzdGVIcWVEcEpHU0gwanJZdllNYVR6WTA0MEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNTgwMjUxCWZpbGU6RWR1Y3Rvb2wtZGVza3RvcF8xLjAuMTNfeDY0X2VuLVVTLm1zaQp3MTN5aExwNmxDR1RJZUt6R0RCcDJ1d0wvVlE1VkU0bm4xVnlVWldZWkNjWjYvcHprdFFzWnB1OGVEWGpwYWpGMzEzOGZGV3ZKRXN5VDd0MGJFSjBDZz09Cg==",
-      "url": "https://github.com/eductool/desktop-gui/releases/download/v0.12.1/Eductool-desktop_0.12.1_x64_en-US.msi"
+      "url": "https://github.com/eductool/desktop-gui/releases/download/v0.12.2/Eductool-desktop_0.12.2_x64_en-US.msi"
     },
     "darwin-x86_84": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSckRUZFFZQXkrUGxydU90UjhDcW9SaUI0bVZTdm5ObW5Cdm9mbnkxbStjNXI2dmhBMlJ5aVREN016Y2J3ZVRMS2owaUJBMEdwMWR6ZWZObjN4cnNmTGR1L3Q4SlhtZmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNTg0MTg0CWZpbGU6RWR1Y3Rvb2wtZGVza3RvcF8xLjAuMTNfeDY0LmRtZwpYZzhkTkdKMnFaZlhBNysxbmUrSHhyS0VOa2tRdlJ2NmllQlRIdXFVd0M3Rkd6SWZhSmgrNkpOZ0FkR2hRVXRLcktZT2NWeW1ZUmJUY1IwZXp4YmpBdz09Cg==",
-      "url": "https://github.com/eductool/desktop-gui/releases/download/v0.12.1/Eductool-desktop_0.12.1_x64.dmg"
+      "url": "https://github.com/eductool/desktop-gui/releases/download/v0.12.2/Eductool-desktop_0.12.2_x64.dmg"
     }
   }
 }
