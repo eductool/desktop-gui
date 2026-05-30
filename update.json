@@ -1,19 +1,27 @@
 {
-  "version": "0.12.3",
-  "notes": "fix wkhtmltopdf - Export exam PDF xdg-open",
+  "version": "0.12.4",
+  "notes": "fix wkhtmltopdf - Export exam PDF absolute path binary",
   "pub_date": "2026-05-30T20:00:00Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVTNCK3RJcXo4U2h6cHNzeXAxRDlMREZLZ2ZmNWFVNTNNZ3J6dCtXTDg5M2hKWnZYcGw5RjFZMk1xY09pQlZsZ0VXMGN3YlYwOS9Cd1RFb3BiN25QODRqODhqUGhRSXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMTY2MDM0CWZpbGU6RWR1Y3Rvb2wtZGVza3RvcF8wLjEyLjNfYW1kNjQuQXBwSW1hZ2UKUnVxd2phMWJxNlJJUUFpcHVyV2h6RkNqbDBwV1V4SnFlblVuRjA4L3YvQzZvN1cvaE9tYUExL2ZpdFFzM3dPSDFBb1JuQ1pCSmlYZHFIS01ONkpQRHc9PQo=",
-      "url": "https://github.com/eductool/desktop-gui/releases/download/v0.12.3/Eductool-desktop_0.12.3_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVTNCK3RJcXo4U29SR1pZVHBUeitvWkRETDVHRTIrRzg3U29FTnVPemZDZjhvUFJPUjF1eWNIYjZpK01sVDQxaEhadHRIOS9paFNzSWtCWjlNYUtwZjRPYjFzMklMTUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMTY2Nzc2CWZpbGU6RWR1Y3Rvb2wtZGVza3RvcF8wLjEyLjRfYW1kNjQuQXBwSW1hZ2UKSFcybktVeUVCeUpLa2Y2b0dEQVJLY2RNR0xGMVdNREdoQzFmZXlkT2RiQndKWWJ4d3N3MkxLdmd4eU0zWVkvTzgwWmdoMFJOVkV0eXFaTGJqcVI3Q1E9PQo=",
+      "url": "https://github.com/eductool/desktop-gui/releases/download/v0.12.4/Eductool-desktop_0.12.4_amd64.AppImage"
+    },
+    "linux-x86_64-deb": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVTNCK3RJcXo4U2tXeFhIK250NUpRejFXcTh1Wm5RbjZFalhxNEhtSnkrVXNnMlUzdDBUVWVZYklqaE9ZL051MGFwQTB1MlArTnRjaHhZUy9VL1h0a2hpRXJMVjNCa0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMTY2ODIyCWZpbGU6RWR1Y3Rvb2wtZGVza3RvcF8wLjEyLjRfYW1kNjQuZGViCnBmZ3h0MEJKYkhLRTlySit6QUx5YjBkS0YxU3FLbXF5MjNOY0dlVlU1UUdIbEl6b200d0JIamZSazdyR1g5OUNiWkZ4aDJGS01OZklIU25EM0ZmK0NnPT0K",
+      "url": "https://github.com/eductool/desktop-gui/releases/download/v0.12.4/Eductool-desktop_0.12.4_amd64.deb"
+    },
+    "linux-x86_64-rpm": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVTNCK3RJcXo4U3NnaHg4T3p4dWF0N3FIV2oxZ1QxM2tDbElUTklCKzduUkowTzl5bDlWNU5tQlc0eStQMDB5WEJNVWV4Vml3U2o3MG8zUDA4NDVwQXVDL0VnVlNsTHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMTY2OTc2CWZpbGU6RWR1Y3Rvb2wtZGVza3RvcC0wLjEyLjQtMS54ODZfNjQucnBtCmxIaWYwbDBSREJQbHRTU1F6ZS9SbVNHS0JxemFkb0I5cDhWNGhLTU43QWJWcDdsNURoVW1ici80ZHdSU0k5VjFMb0hNTTUyQUJDZ3lQMXM2RFBpZEF3PT0K",
+      "url": "https://github.com/eductool/desktop-gui/releases/download/v0.12.4/Eductool-desktop-0.12.4-1.x86_64.rpm"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSckRUZFFZQXkrUHI3bFB6NitxdDZvQ3VWRm5iZ3l3dU1kV1VlUzZlVTJPUHpheHpXNVRUQlcrS1pmSnFpU1J1T3NJcUlzdGVIcWVEcEpHU0gwanJZdllNYVR6WTA0MEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNTgwMjUxCWZpbGU6RWR1Y3Rvb2wtZGVza3RvcF8xLjAuMTNfeDY0X2VuLVVTLm1zaQp3MTN5aExwNmxDR1RJZUt6R0RCcDJ1d0wvVlE1VkU0bm4xVnlVWldZWkNjWjYvcHprdFFzWnB1OGVEWGpwYWpGMzEzOGZGV3ZKRXN5VDd0MGJFSjBDZz09Cg==",
-      "url": "https://github.com/eductool/desktop-gui/releases/download/v0.12.3/Eductool-desktop_0.12.3_x64_en-US.msi"
+      "url": "https://github.com/eductool/desktop-gui/releases/download/v0.12.4/Eductool-desktop_0.12.4_x64_en-US.msi"
     },
     "darwin-x86_84": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSckRUZFFZQXkrUGxydU90UjhDcW9SaUI0bVZTdm5ObW5Cdm9mbnkxbStjNXI2dmhBMlJ5aVREN016Y2J3ZVRMS2owaUJBMEdwMWR6ZWZObjN4cnNmTGR1L3Q4SlhtZmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNTg0MTg0CWZpbGU6RWR1Y3Rvb2wtZGVza3RvcF8xLjAuMTNfeDY0LmRtZwpYZzhkTkdKMnFaZlhBNysxbmUrSHhyS0VOa2tRdlJ2NmllQlRIdXFVd0M3Rkd6SWZhSmgrNkpOZ0FkR2hRVXRLcktZT2NWeW1ZUmJUY1IwZXp4YmpBdz09Cg==",
-      "url": "https://github.com/eductool/desktop-gui/releases/download/v0.12.3/Eductool-desktop_0.12.3_x64.dmg"
+      "url": "https://github.com/eductool/desktop-gui/releases/download/v0.12.4/Eductool-desktop_0.12.4_x64.dmg"
     }
   }
 }
