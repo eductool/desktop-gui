@@ -16,8 +16,12 @@
       "url": "https://github.com/eductool/desktop-gui/releases/download/v0.12.9/Eductool-desktop-0.12.9-1.x86_64.rpm"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSckRUZFFZQXkrUHI3bFB6NitxdDZvQ3VWRm5iZ3l3dU1kV1VlUzZlVTJPUHpheHpXNVRUQlcrS1pmSnFpU1J1T3NJcUlzdGVIcWVEcEpHU0gwanJZdllNYVR6WTA0MEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNTgwMjUxCWZpbGU6RWR1Y3Rvb2wtZGVza3RvcF8xLjAuMTNfeDY0X2VuLVVTLm1zaQp3MTN5aExwNmxDR1RJZUt6R0RCcDJ1d0wvVlE1VkU0bm4xVnlVWldZWkNjWjYvcHprdFFzWnB1OGVEWGpwYWpGMzEzOGZGV3ZKRXN5VDd0MGJFSjBDZz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVTNCK3RJcXo4U2k5SXZrME5aNkNJdVArSnB1cGlKTkV2U2U5V3p4a1YwVmxzQ0I1Mko5SUl1Wm1FYndiTm5hOUdSbjB5VzFFQ1Jvb25KNXFzcjVpQW84dUZlSURWMlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjA5NTk4CWZpbGU6RWR1Y3Rvb2wtZGVza3RvcF8wLjEyLjlfeDY0X2VuLVVTLm1zaQp4UGdWNFVnZXgrQjlkK2tvTUcrTUNpRGNVU2p1QXJUMEdPVkw3ZnphVHdRRVpqOVY3RWxZYk90cXE2bTMyejZ2YWhnZlNEcjMyTVV5QVNMMCt6MXVDdz09Cg==",
       "url": "https://github.com/eductool/desktop-gui/releases/download/v0.12.9/Eductool-desktop_0.12.9_x64_en-US.msi"
+    },
+    "windows-x86_64-setup": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVTNCK3RJcXo4U2crZnZqM1lFTDVXOGpDa2dCOXl2cFZXZy9lWS9PVlFURzlSRHN5VVl1Nml4RksrNWMwK2FObmcxZnAyZFQrbEsveUNNK2I0YXIyNENiNFZGMkdKSlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjA5NjQ4CWZpbGU6RWR1Y3Rvb2wtZGVza3RvcF8wLjEyLjlfeDY0LXNldHVwLmV4ZQp1ZDAxSUdSSDgrOGUxWmVjdzlNYTBScFNoRkNUR0Q2QjFKREtoSkdXdEk1cHlldyttcloyVzQvY0FNejNRdlBlTW1VRkdhNllya1NVQm9OUWd4WGRDZz09Cg==",
+      "url": "https://github.com/eductool/desktop-gui/releases/download/v0.12.9/Eductool-desktop_0.12.9_x64-setup.exe"
     },
     "darwin-x86_84": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSckRUZFFZQXkrUGxydU90UjhDcW9SaUI0bVZTdm5ObW5Cdm9mbnkxbStjNXI2dmhBMlJ5aVREN016Y2J3ZVRMS2owaUJBMEdwMWR6ZWZObjN4cnNmTGR1L3Q4SlhtZmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNTg0MTg0CWZpbGU6RWR1Y3Rvb2wtZGVza3RvcF8xLjAuMTNfeDY0LmRtZwpYZzhkTkdKMnFaZlhBNysxbmUrSHhyS0VOa2tRdlJ2NmllQlRIdXFVd0M3Rkd6SWZhSmgrNkpOZ0FkR2hRVXRLcktZT2NWeW1ZUmJUY1IwZXp4YmpBdz09Cg==",
