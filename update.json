@@ -4,7 +4,7 @@
   "pub_date": "2026-05-31T20:00:00Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVTNCK3RJcXo4U2lpam51eWs0a3R1bGR2ZHRlNjUzVGZ5K1JqYUZLclJaYXZndE94c1VjcnBJNzVzZEhkbHpvM05DNUk1anJST0FCYzcrTm80WDNQQmY5ckkySDM3TVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjYyMjAzCWZpbGU6RWR1Y3Rvb2wtZGVza3RvcF8wLjEzLjBfYW1kNjQuQXBwSW1hZ2UKWThVblBldW1vdEpQcUtNSXkrSTMyNHdKVDk4SmpJREhaSGZuRSs4a1c2cjVTSlJzK2RmcG9Nbk93czh5L3RScDM1eEVsUlVST0tGUEd4SklPYk5rQlE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVTNCK3RJcXo4U28vQUNnb0lzWHdVR0Y4ZmJ4NDJ5dlJHQ3FYZGFNSDFDZmhYaFYvekY3bnZZR0NNRVhrZGM4QTlrV0gxY1BMNXI2d2swMWpJbiswM0xyeElzNE5nVFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjA5NDMzCWZpbGU6RWR1Y3Rvb2wtZGVza3RvcF8wLjEzLjBfYW1kNjQuQXBwSW1hZ2UKQUk2b3dESVVTcUQxK25Pcmt5b21icE9HTGxMUi95N3NZZGlYc3dlODhrblRIcG1OTHZXajFxRXJnODNkQ25IcFVKdzJhaHNpa1RBbW16VmhNMFJvQVE9PQo=",
       "url": "https://github.com/eductool/desktop-gui/releases/download/v0.13.0/Eductool-desktop_0.13.0_amd64.AppImage"
     },
     "linux-x86_64-deb": {
@@ -21,7 +21,7 @@
     },
     "windows-x86_64-setup": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVTNCK3RJcXo4U3BhVWo1elByZEpjNE1XcDZQTEZ5c2crSWxPeWU2elI4OVQ1a2xteFBSTTdaTTJzM29ZT3J2c3RIQTJpTHVxTk90ODRGTUpCRllQWmJlbEtqWXFBK2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNDEzNzYwCWZpbGU6RWR1Y3Rvb2wtZGVza3RvcF8wLjEzLjBfeDY0LXNldHVwLmV4ZQo1cUpPU09HdXB4czB1NEhHNmxPRFhuVzFqUzFyQzB3WnhENmlSZkMzRisrUTRZc2FJK2FITUZ3YU8vVmxjUlBXandlS1gxTitMZEhqRlo0d3pQdFpEQT09Cg==",
-      "url": "https://github.com/eductool/desktop-gui/releases/download/v0.12.9/Eductool-desktop_0.12.9_x64-setup.exe"
+      "url": "https://github.com/eductool/desktop-gui/releases/download/v0.13.0/Eductool-desktop_0.13.0_x64-setup.exe"
     },
     "darwin-x86_84": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSckRUZFFZQXkrUGxydU90UjhDcW9SaUI0bVZTdm5ObW5Cdm9mbnkxbStjNXI2dmhBMlJ5aVREN016Y2J3ZVRMS2owaUJBMEdwMWR6ZWZObjN4cnNmTGR1L3Q4SlhtZmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNTg0MTg0CWZpbGU6RWR1Y3Rvb2wtZGVza3RvcF8xLjAuMTNfeDY0LmRtZwpYZzhkTkdKMnFaZlhBNysxbmUrSHhyS0VOa2tRdlJ2NmllQlRIdXFVd0M3Rkd6SWZhSmgrNkpOZ0FkR2hRVXRLcktZT2NWeW1ZUmJUY1IwZXp4YmpBdz09Cg==",
