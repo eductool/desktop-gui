@@ -1,31 +1,31 @@
 {
-  "version": "0.14.0",
-  "notes": "Mises à jour de dépendances Rust et Frontend",
-  "pub_date": "2026-10-04T20:00:00Z",
+  "version": "0.15.0",
+  "notes": "Intégration de Sentry",
+  "pub_date": "2026-10-19T20:00:00Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVTNCK3RJcXo4U294eGdiRU1YZCtwaHZiajVCWk1QYStWU3ZyZTBlM1o4MEtmU1kyb0x1Vk8wYkt6VmpQVDVITUNOMkdqQkFQenhHYlk5cmpsN3ZVU1RnUmYvajdsanc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTMxMjQ1CWZpbGU6RWR1Y3Rvb2wtZGVza3RvcF8wLjE0LjBfYW1kNjQuQXBwSW1hZ2UKQXBrSjZ6anBtRVZOMUZhbnJac0piNkp0cHRWZFNhUWpBdWJUY0t3TFN5alZOMjduRzdlWitrN29OS3d1eVlXYVVKeHRxckRTeWxHdEZweStKS3BpRGc9PQo=",
-      "url": "https://github.com/eductool/desktop-gui/releases/download/v0.14.0/Eductool-desktop_0.14.0_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVTNCK3RJcXo4U3VOWElRcFEwM2VUdkt5V1cvMVVnd2k3Wko1bXM2SlNQelVNaHJrZW0rVmlOcXNSVVBmdURQZDFDbVMzaDN1Wlg1VlVsM25ycHVIdldvWnBLMWh5Y1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDM0NTUyCWZpbGU6RWR1Y3Rvb2wtZGVza3RvcF8wLjE1LjBfYW1kNjQuQXBwSW1hZ2UKa28xNDYzOVJ2MTlKRnZrakpGbUxMcXZJWWdWZzVFZWt5Uit5NjJPeFJhTzdKSUFYUEFKNU16SnpSSWIyclJKeGFMSVczYTBmMUZXNTFwLzZqZVoyRGc9PQo=",
+      "url": "https://github.com/eductool/desktop-gui/releases/download/v0.15.0/Eductool-desktop_0.15.0_amd64.AppImage"
     },
     "linux-x86_64-deb": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVTNCK3RJcXo4U3BqMVJSNkd3S3huaHhOVnlTYjlnTHk2c3YzaXNSZ2kzZGVPWGpWNEZoRThaQmtxNlU2MFduMSthSm9xU0RFbmwxWnBlMm5CbVBjRGY3elBKdS9jYUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTMxMjA5CWZpbGU6RWR1Y3Rvb2wtZGVza3RvcF8wLjE0LjBfYW1kNjQuZGViCmh0TkhlbjAxVU1zaGFLdE45MGFnTUdWN21JYXk2cGg4WC9MNkJqWXhzWjlVM3NQZGV3aS96WmFMSHN1eTB0ZW0xKzZXSTAyekZHNi9EUmV3dU8yL0J3PT0K",
-      "url": "https://github.com/eductool/desktop-gui/releases/download/v0.14.0/Eductool-desktop_0.14.0_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVTNCK3RJcXo4U3NGZW9UQ1dGR051cmMrZmEvaDJDb2xycEdxTlRzR3Y5U3B0akFtL3ZoYmw1WEtHM2pWTS9kandxQnNiUkhZVk13aDhpQ21JM0pUWm9PR2lmd2V5OVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDM0NTEzCWZpbGU6RWR1Y3Rvb2wtZGVza3RvcF8wLjE1LjBfYW1kNjQuZGViCnN6V2pqcE0xaGg0SE9oV0hVSGUvZEljUmMxZ1pMVnJDdTN2OTVjcytCWVJaNmFJbmVRWndBWXgvZFNaWktxNjB0ZUtjZHZMa3NVV0RENDd6eVRuNkF3PT0K",
+      "url": "https://github.com/eductool/desktop-gui/releases/download/v0.15.0/Eductool-desktop_0.15.0_amd64.deb"
     },
     "linux-x86_64-rpm": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVTNCK3RJcXo4U3NXQXpSRkJ4MTM3YXBrTFpDcmZzT3A0RFIwdzNxWUoxNTg3blVUQkphSFFaZ2FDZ1p1MlJuSnhVQ01oOTh5VjVWYi9NM2diVmdxNUxLT1d2QUxMSWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTMxMjI4CWZpbGU6RWR1Y3Rvb2wtZGVza3RvcC0wLjE0LjAtMS54ODZfNjQucnBtClFMNDQ5SjZxQ21iWDFOUEFUZTVrWFRKTVZybGFBdkcyVGdyQUNxalBQVUFwdVRNOUxCSTJuTUFIckFPU0JkK2p6RDkvV28yQTM5UEhZZWYxV2Q1c0FnPT0K",
-      "url": "https://github.com/eductool/desktop-gui/releases/download/v0.14.0/Eductool-desktop-0.14.0-1.x86_64.rpm"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVTNCK3RJcXo4U3ZZT0hBdWFPWm9KUGJOeFNIZE9QTzR2dmI2dXh2Y3VIdjdFaVRwS01nUEtvK0p6R3lVM3JKL3Q3RlhldTRqR1hxRWZZVklNL2VkRzN5cDQyRFd5VHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDM0NTMwCWZpbGU6RWR1Y3Rvb2wtZGVza3RvcC0wLjE1LjAtMS54ODZfNjQucnBtCkVzMEgwTlh1eVVxM3BrbzRONFo5cThLeDNiWlhxWEFnZVNsRzRwNFJ6cGYrUWpUT2xYKzlhZndyb2ZJSEI2WDA2Sk92NXhocEdUWFZ1OWpFcnJwb0FRPT0K",
+      "url": "https://github.com/eductool/desktop-gui/releases/download/v0.15.0/Eductool-desktop-0.15.0-1.x86_64.rpm"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVTNCK3RJcXo4U2dEM1pzc2EwUTVXM1pRZzZnQ3pwTVFaZlZQWklHWWVPWnNOZ1g4SytJdGw4ZHg4U0ZJTk9kb1FRQ3Z4alNXMno3T3NBdi85VHd0dHNwMnJhSGFlU0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNDEzNzM4CWZpbGU6RWR1Y3Rvb2wtZGVza3RvcF8wLjEzLjBfeDY0X2VuLVVTLm1zaQp5c1p1djVVbUhHL0lsTEJBNG9pWXNaR2I1d3ViUkNKMW5qa1ZaKy9sNU9oMk1hVEJjNXlrWVQvMklDNElmYyt2eHplM0Y2S1p0ZEYzOUo4UWZNNDNCUT09Cg==",
-      "url": "https://github.com/eductool/desktop-gui/releases/download/v0.14.0/Eductool-desktop_0.14.0_x64_en-US.msi"
+      "url": "https://github.com/eductool/desktop-gui/releases/download/v0.15.0/Eductool-desktop_0.15.0_x64_en-US.msi"
     },
     "windows-x86_64-setup": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVTNCK3RJcXo4U3BhVWo1elByZEpjNE1XcDZQTEZ5c2crSWxPeWU2elI4OVQ1a2xteFBSTTdaTTJzM29ZT3J2c3RIQTJpTHVxTk90ODRGTUpCRllQWmJlbEtqWXFBK2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNDEzNzYwCWZpbGU6RWR1Y3Rvb2wtZGVza3RvcF8wLjEzLjBfeDY0LXNldHVwLmV4ZQo1cUpPU09HdXB4czB1NEhHNmxPRFhuVzFqUzFyQzB3WnhENmlSZkMzRisrUTRZc2FJK2FITUZ3YU8vVmxjUlBXandlS1gxTitMZEhqRlo0d3pQdFpEQT09Cg==",
-      "url": "https://github.com/eductool/desktop-gui/releases/download/v0.14.0/Eductool-desktop_0.14.0_x64-setup.exe"
+      "url": "https://github.com/eductool/desktop-gui/releases/download/v0.15.0/Eductool-desktop_0.15.0_x64-setup.exe"
     },
     "darwin-x86_84": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSckRUZFFZQXkrUGxydU90UjhDcW9SaUI0bVZTdm5ObW5Cdm9mbnkxbStjNXI2dmhBMlJ5aVREN016Y2J3ZVRMS2owaUJBMEdwMWR6ZWZObjN4cnNmTGR1L3Q4SlhtZmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNTg0MTg0CWZpbGU6RWR1Y3Rvb2wtZGVza3RvcF8xLjAuMTNfeDY0LmRtZwpYZzhkTkdKMnFaZlhBNysxbmUrSHhyS0VOa2tRdlJ2NmllQlRIdXFVd0M3Rkd6SWZhSmgrNkpOZ0FkR2hRVXRLcktZT2NWeW1ZUmJUY1IwZXp4YmpBdz09Cg==",
-      "url": "https://github.com/eductool/desktop-gui/releases/download/v0.14.0/Eductool-desktop_0.14.0_x64.dmg"
+      "url": "https://github.com/eductool/desktop-gui/releases/download/v0.15.0/Eductool-desktop_0.15.0_x64.dmg"
     }
   }
 }
